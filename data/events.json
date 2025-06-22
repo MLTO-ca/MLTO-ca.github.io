@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Old Event Testing",
+    "description": "Monthly sync at 10:00 AM",
+    "date": "2025-05-01",
+    "time": "10:00",
+    "location": "Zoom",
+    "registrationLink": "https://example.com/meeting-registration"
+  },
+  {
+    "title": "Past Event Testing",
+    "description": "Monthly sync at 10:00 AM",
+    "date": "2025-04-01",
+    "time": "10:00",
+    "location": "Zoom",
+    "registrationLink": "https://example.com/meeting-registration"
+  },
+  {
+    "title": "MLTO June 2025: Advanced Retrieval & Outlier Detection",
+    "description": "Talk #1 - Moein Hasani, Data Scientist @ Instacart - From Matching to Generation: Rethinking Retrieval with LLMs\nTalk #2 - Brett Kennedy, Data Scientist & Author - Outlier Detection in Python",
+    "date": "2025-06-17",
+    "startTime": "18:00",
+    "endTime": "20:30",
+    "location": "Left Field Brewery (Liberty Village), 40 Hanna Avenue · Toronto, ON",
+    "registrationLink": "https://www.meetup.com/machine-learning-to-meetup/events/307947221/?eventOrigin=group_events_list"
+  },
+  {
+    "title": "Project Kickoff",
+    "description": "Monthly sync at 10:00 AM",
+    "date": "2025-06-10",
+    "startTime": "14:00",
+    "endTime": "16:30",
+    "location": "Office HQ",
+    "registrationLink": "https://example.com/meeting-registration"
+  },
+  {
+    "title": "Tech Talk",
+    "description": "Monthly sync at 10:00 AM",
+    "date": "2025-06-20",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "location": "Online",
+    "registrationLink": "https://example.com/meeting-registration"
+  },
+  {
+    "title": "Tech Talk 2",
+    "description": "Monthly sync at 10:00 AM",
+    "date": "2025-07-10",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "location": "Online",
+    "registrationLink": "https://example.com/meeting-registration"
+  }
+]
