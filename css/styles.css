@@ -21,7 +21,8 @@
 /* =========================
    Page Layout
    ========================= */
-   .container {
+  .container {
+    max-width: 1024px;
     padding-left: 3rem;
     padding-right: 3rem;
   }
@@ -34,9 +35,35 @@
   }
 
   @media (min-width: 576px) {
-    .container, .container-sm {
-        max-width: initial;
+    .container-sm {
+      max-width: initial;
     }
+  }
+
+/* =========================
+   Profile Styles
+   ========================= */
+.profile-container {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 2rem;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.profile-image {
+  flex-shrink: 0;
+}
+
+.profile-text {
+  flex-grow: 1;
+  max-width: 600px;
+  text-align: justify;
+}
+
+@media (min-width: 600px) {
+  .profile-container {
+    flex-direction: row;
   }
 
 /* =========================
