@@ -41,6 +41,33 @@
   }
 
 /* =========================
+   Utility Styles
+   ========================= */
+
+.filter-invert {
+  filter: invert();
+}
+
+[data-bs-theme=dark] {
+
+  .dark_filter-invert {
+    filter: invert();
+  }
+}
+
+.form-iframe {
+
+  border-top: 1px solid #F5F5F5;
+  border-bottom: 1px solid #F5F5F5;
+
+  @media (max-width: 768px) {
+    border-top: 1px solid #D3D3D3;
+    width:100vw;
+    margin-left: -24px;
+  }
+}
+
+/* =========================
    Profile Styles
    ========================= */
 .profile-container {
