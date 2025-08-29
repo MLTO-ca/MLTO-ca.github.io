@@ -1,5 +1,16 @@
 [
   {
+    "id": "mlto-event-2025-08",
+    "title": "MLTO: Machine Learning Toronto - August 2025",
+    "date": "2025-08-27",
+    "startTime": "18:00",
+    "endTime": "20:30",
+    "location": "Highline Beta, Toronto, ON",
+    "registrationLink": "https://luma.com/4bzxts24",
+    "description": "Talk #1 - Mario Vasilescu, Founding Partner @ ThinkingThrough.ai - The Missing First Principles of the AI Wave : How to Avoid an AI Bubble\nTalk #2 - Myles Harrison, Company Principal @ PRAKTIKAI - Agents in 2025: Promises, Potential, Realities",
+    "attendees": 64
+  },
+  {
     "id": "mlto-event-2025-07",
     "title": "MLTO: Machine Learning Toronto - July 2025",
     "date": "2025-07-28",
@@ -8,7 +19,7 @@
     "location": "Left Field Brewery (Liberty Village), 40 Hanna Avenue · Toronto, ON",
     "registrationLink": "https://lu.ma/srqfkfp5",
     "description": "Talk #1 - Moein Hasani, Data Scientist @ Instacart - From Matching to Generation: Rethinking Retrieval with LLMs\nTalk #2 - Brett Kennedy, Data Scientist & Author - Outlier Detection in Python",
-    "attendees": null
+    "attendees": 83
   },
   {
     "id": "mlto-event-2025-06",
@@ -17,9 +28,9 @@
     "startTime": "18:00",
     "endTime": "20:30",
     "location": "Left Field Brewery (Liberty Village), 40 Hanna Avenue · Toronto, ON",
-    "registrationLink": "https://www.meetup.com/machine-learning-to-meetup/events/307947221/",
+    "registrationLink": "https://luma.com/4856zsyt",
     "description": "Talk #1 - Moein Hasani, Data Scientist @ Instacart - From Matching to Generation: Rethinking Retrieval with LLMs\nTalk #2 - Brett Kennedy, Data Scientist & Author - Outlier Detection in Python",
-    "attendees": null
+    "attendees": 346
   },
   {
     "id": "mlto-event-2025-05",
@@ -28,7 +39,7 @@
     "startTime": "17:45",
     "endTime": "20:00",
     "location": "Index Exchange, Toronto",
-    "registrationLink": "",
+    "registrationLink": "https://luma.com/ny7oeyi4",
     "description": "",
     "attendees": null
   },
@@ -39,7 +50,7 @@
     "startTime": "18:00",
     "endTime": "",
     "location": "Toronto",
-    "registrationLink": "",
+    "registrationLink": "https://www.meetup.com/machine-learning-to-meetup/events/306974271/",
     "description": "",
     "attendees": 356
   },
@@ -50,7 +61,7 @@
     "startTime": "18:00",
     "endTime": "",
     "location": "Toronto",
-    "registrationLink": "",
+    "registrationLink": "https://www.meetup.com/machine-learning-to-meetup/events/306723811/",
     "description": "",
     "attendees": 318
   },
@@ -61,7 +72,7 @@
     "startTime": "18:00",
     "endTime": "",
     "location": "Toronto",
-    "registrationLink": "",
+    "registrationLink": "https://www.meetup.com/machine-learning-to-meetup/events/306012419/",
     "description": "",
     "attendees": 197
   },
@@ -72,7 +83,7 @@
     "startTime": "18:00",
     "endTime": "",
     "location": "Toronto",
-    "registrationLink": "",
+    "registrationLink": "https://www.meetup.com/machine-learning-to-meetup/events/305522224/",
     "description": "",
     "attendees": 158
   },
@@ -83,7 +94,7 @@
     "startTime": "18:00",
     "endTime": "",
     "location": "Toronto",
-    "registrationLink": "",
+    "registrationLink": "https://www.meetup.com/machine-learning-to-meetup/events/304294029/",
     "description": "",
     "attendees": 121
   },
@@ -94,7 +105,7 @@
     "startTime": "18:00",
     "endTime": "",
     "location": "Toronto",
-    "registrationLink": "",
+    "registrationLink": "https://www.meetup.com/machine-learning-to-meetup/events/303276560/",
     "description": "",
     "attendees": 227
   },
@@ -105,7 +116,7 @@
     "startTime": "18:00",
     "endTime": "",
     "location": "Toronto",
-    "registrationLink": "",
+    "registrationLink": "https://www.meetup.com/machine-learning-to-meetup/events/303119989/",
     "description": "",
     "attendees": 229
   },
@@ -116,7 +127,7 @@
     "startTime": "18:00",
     "endTime": "",
     "location": "Toronto",
-    "registrationLink": "",
+    "registrationLink": "https://www.meetup.com/machine-learning-to-meetup/events/302696444/",
     "description": "",
     "attendees": 264
   },
@@ -127,7 +138,7 @@
     "startTime": "17:30",
     "endTime": "",
     "location": "Toronto",
-    "registrationLink": "",
+    "registrationLink": "https://www.meetup.com/machine-learning-to-meetup/events/302270485/",
     "description": "",
     "attendees": 263
   },
@@ -138,7 +149,7 @@
     "startTime": "17:30",
     "endTime": "",
     "location": "Toronto",
-    "registrationLink": "",
+    "registrationLink": "https://www.meetup.com/machine-learning-to-meetup/events/302043712/",
     "description": "",
     "attendees": 158
   },
@@ -149,7 +160,7 @@
     "startTime": "18:00",
     "endTime": "",
     "location": "Toronto",
-    "registrationLink": "",
+    "registrationLink": "https://www.meetup.com/machine-learning-to-meetup/events/301161485/",
     "description": "",
     "attendees": 24
   }

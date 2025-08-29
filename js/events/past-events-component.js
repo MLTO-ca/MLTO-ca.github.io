@@ -217,8 +217,10 @@ export class PastEventsComponent {
 
   renderEventItems(container, events) {
     events.forEach(event => {
-      const eventElement = document.createElement('div');
+      const eventElement = document.createElement('a');
       eventElement.className = 'past-event-item mb-4';
+      eventElement.href = event.link;
+      eventElement.target = '_blank';
       eventElement.innerHTML = event.toHTML(true);
       container.appendChild(eventElement);
     });
