@@ -1,5 +1,60 @@
 [
   {
+    "id": "mlto-event-2026-01",
+    "title": "Machine Learning Toronto (MLTO) - January 2026",
+    "date": "2026-01-20",
+    "startTime": "18:00",
+    "endTime": "20:30",
+    "location": "Northeastern University, Toronto Campus",
+    "registrationLink": "https://luma.com/3t3zfu21",
+    "description": "Talk #1 Jonathan Watson, Bosun AI Strategies - A Thoughtful Perspective on the AI Boom: Misallocation Rather Than Bubble\n​Talk #2 John Wilder, Assistant Teaching Professor and Academic Lead of Applied AI MPS Assistant Teaching Professor at Northeastern University - Comparing human and artificial neural networks",
+    "attendees": 57
+  },
+  {
+    "id": "mlto-event-2025-12",
+    "title": "Santacollider: Toronto Tech Community HOLIDAY PARTY ⚛️🎅🎄brought to you by SUPERCOLLIDER",
+    "date": "2025-12-09",
+    "startTime": "18:00",
+    "endTime": "02:00",
+    "location": "The Pilot, Toronto",
+    "registrationLink": "https://luma.com/santacollider",
+    "description": "",
+    "attendees": null
+  },
+  {
+    "id": "mlto-event-2025-12",
+    "title": "Machine Learning Toronto (MLTO) - December 2025",
+    "date": "2025-12-02",
+    "startTime": "18:00",
+    "endTime": "20:30",
+    "location": "Intact Insurance, Toronto",
+    "registrationLink": "https://luma.com/ie8wkvfq",
+    "description": "Talk #1, Michael Li, Manager of Data Science @ Intact Data Lab - Data Science in the Call Center\n​Talk #2, Brad Micklea, Founder & CEO at Jozu - Stop Getting Stuck Between Prototype and Production",
+    "attendees": 60
+  },
+  {
+    "id": "mlto-event-2025-10",
+    "title": "MLTO Executive AI Panel - Balancing AI Innovation with Safety: Perspectives from Industry & Academia",
+    "date": "2025-10-28",
+    "startTime": "17:30",
+    "endTime": "20:15",
+    "location": "Index Exchange, Toronto",
+    "registrationLink": "https://luma.com/28p9jsss",
+    "description": "",
+    "attendees": null
+  },
+  {
+    "id": "mlto-event-2025-09",
+    "title": "Machine Learning Toronto (MLTO) - September 2025",
+    "date": "2025-10-02",
+    "startTime": "18:00",
+    "endTime": "20:30",
+    "location": "Highline Beta, Toronto, ON",
+    "registrationLink": "https://luma.com/xxkquh78",
+    "description": "Talk #1, Josh Harris, Founder and CEO @ AnswerLayer: ​Why Your Agent Needs a Semantic Layer\n​Talk #2 - Swetha Subramanian, Vice President Data & AI, Independent Advisor: ​What’s Next for Data Roles: Staying Relevant in a Rapidly Shifting Landscape",
+    "attendees": 73
+  },
+  {
     "id": "mlto-event-2025-08",
     "title": "MLTO: Machine Learning Toronto - August 2025",
     "date": "2025-08-27",

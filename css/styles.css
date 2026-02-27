@@ -382,6 +382,64 @@
 }
 
 /* =========================
+   Footer & Social Links
+   ========================= */
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 0;
+}
+
+.footer-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.footer-social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  color: var(--bs-body-color);
+  text-decoration: none;
+  border-radius: 50%;
+  transition: opacity 0.2s, transform 0.2s;
+}
+
+.footer-social a:hover {
+  opacity: 0.8;
+  transform: scale(1.1);
+}
+
+.footer-social a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+
+.footer-social a svg.footer-social-icon {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.footer-social a i {
+  font-size: 1.25rem;
+}
+
+.footer-content p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--bs-body-color);
+}
+
+
+
+/* =========================
    Profile Styles
    ========================= */
 .profile-container {
